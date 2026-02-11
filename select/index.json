@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Bird of Night",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2026-02-11T19:20:49.441316Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bird of Night",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/01_Bird_of_Night_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bird of Night",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_Bird_of_Night_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
